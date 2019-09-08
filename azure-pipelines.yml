@@ -12,8 +12,8 @@ variables:
   vmImageName: 'ubuntu-latest'
   demorg: 'Moen'
   subscription : 'cicd-devops-IaC'
-  webappname : 'samplewebapp'
-  prodwebappname : 'samplewebapp-prod'
+  webappname : 'melonsamplewebapp'
+  prodwebappname : 'melonsamplewebapp-prod'
 
 stages:
 - stage: Build
